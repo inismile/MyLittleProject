@@ -1,2 +1,0 @@
-# qixi
-firstcasedghsdf
