@@ -6,7 +6,7 @@ $("document").ready(function(){
         loopHorizontal:'true',
         slidesNavigation:'true',
         navigationPosition:'right',
-        navigationTooltips:['Ê×Ò³','¹ØÓÚÎÒ','ĞÄÂ·Àú³Ì','×¨Òµ¼¼ÄÜ','ÎÒµÄ×÷Æ·','ÁªÏµÎÒ'],
+        navigationTooltips:['é¦–é¡µ','å…³äºæˆ‘','å¿ƒè·¯å†ç¨‹','ä¸“ä¸šæŠ€èƒ½','æˆ‘çš„ä½œå“','è”ç³»æˆ‘'],
         css3:'ture',
         anchors:['page1','page2','page3','page4','page5','page6'],
         afterLoad:function(link,index){
@@ -172,8 +172,8 @@ $("document").ready(function(){
         $("#head-e").text("huding").css("color","#73a9cb");
         $("#head-c").text("resume").css("color","#73a9cb");
     }, function() {
-        $("#head-e").text("ºú¶¦").css("color","#333");
-        $("#head-c").text("¸öÈË¼òÀú").css("color","#333")
+        $("#head-e").text("HD").css("color","#333");
+        $("#head-c").text("ä¸ªäººç®€å†").css("color","#333")
     
     });
 })
